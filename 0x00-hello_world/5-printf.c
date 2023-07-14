@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- * main A program that print a line using the printf fuction
- * Return:(0) Always
+ *main -display output using prinf
+ *
+ *Return: always return (0)
+ *
  */
 int main(void)
 {
