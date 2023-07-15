@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  *main - A C Program that prints a line to the standard error
- *Return:This returns 1
+ *Return:This return 1
  */
 int main(void)
 {
