@@ -4,18 +4,19 @@
  *
  * Return: (0) Always
  */
+
 int main(void)
 {
-	char letter = 'a';
+	char i = 'a';
 
 	printf("Alphabet in lowercase:\n");
 
-	while (letter <= 'z')
+	while (i <= 'z')
 	{
-		putchar(letter);
-		putchar('');
-		letter++;
+		putchar(i);
+		i++;
 	}
+
 	putchar('\n');
 	return (0);
 }
