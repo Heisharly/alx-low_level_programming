@@ -2,8 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main -A code that print the last digit number stored in a variable
- * betty style doc for function main goes there
+ * main - Entry point
+ *
+ * Return: (0) Always
  */
 int main(void)
 {
