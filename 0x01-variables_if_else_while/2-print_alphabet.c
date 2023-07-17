@@ -1,15 +1,14 @@
 #include <stdio.h>
+
 /**
- * main - A program that prints Alphabet in lowercase followed by a newline
+ * main - Entry point
  *
- * Return: (0) Always
+ * Return: Always 0 (Sucess)
  */
 
 int main(void)
 {
 	char i = 'a';
-
-	printf("Alphabet in lowercase:\n");
 
 	while (i <= 'z')
 	{
@@ -20,4 +19,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
