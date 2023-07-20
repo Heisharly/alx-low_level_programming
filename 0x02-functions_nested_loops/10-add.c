@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
  * add - Add two values
- * @n1:
- * @n2:
+ * @n1: first number
+ * @n2: second number
  * Return: integer value
  */
 int add(int n1, int n2)
