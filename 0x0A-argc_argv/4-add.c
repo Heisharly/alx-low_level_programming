@@ -3,9 +3,9 @@
 #include <ctype.h>
 
 /**
- * main - prints a string
- * @argc: length of arguments
- * @argv: pointer to an array of strings/arguments
+ * main - add positive numbers
+ * @argc: number of command linr arg..
+ * @argv: array that contains the program command line arg
  * Return: always 0
  */
 
