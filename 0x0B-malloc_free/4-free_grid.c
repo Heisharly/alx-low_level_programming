@@ -3,9 +3,8 @@
 #include <stdlib.h>
 
 /**
- * print_grid - prints a grid of integers
+ * free_grid - frees a 2 dimentional grid of integer
  * @grid: the address of the two dimentional grid
- * @width: width of the grid
  * @height: height of the grid
  *
  * Return: nothing
